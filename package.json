@@ -1,0 +1,33 @@
+{
+  "name": "cajavar-random-messages",
+  "version": "1.0.1",
+  "description": "I don't know what to write for the first commit.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "Node",
+    "Npm"
+  ],
+  "author": "cajavar <cajavar@gmail.com>",
+  "license": "MIT",
+  "bin": {
+    "cajavar-random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cajavar/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/cajavar/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/cajavar/npm-random-msg#readme"
+}
